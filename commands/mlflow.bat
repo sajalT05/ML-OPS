@@ -1,1 +1,1 @@
-mlflow server --backend-store-uri="sqlite:///lead_scoring_model_experimentation. db" --default-artifact-root="artifacts/" --port=6007 --host=0.0.0.0
+mlflow server --backend-store-uri="sqlite:///model_experimentation/model_experimentation.db" --default-artifact-root="model_experimentation/artifacts/" --port=6007 --host=0.0.0.0

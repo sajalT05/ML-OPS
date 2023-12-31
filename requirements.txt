@@ -93,6 +93,7 @@ fonttools==4.47.0
 fqdn==1.5.1
 frozenlist==1.4.1
 fsspec==2023.10.0
+future==0.18.3
 gast==0.5.4
 gcloud-aio-auth==4.2.3
 gcloud-aio-bigquery==7.0.0
@@ -167,6 +168,7 @@ httplib2==0.22.0
 httpx==0.26.0
 huggingface-hub==0.20.1
 hyperframe==6.0.1
+hyperopt==0.2.7
 idna==3.4
 ImageHash==4.3.1
 imageio==2.33.1
@@ -261,6 +263,7 @@ opentelemetry-proto==1.22.0
 opentelemetry-sdk==1.22.0
 opentelemetry-semantic-conventions==0.43b0
 opt-einsum==3.3.0
+optuna==3.5.0
 ordered-set==4.1.0
 orjson==3.9.10
 overrides==7.4.0
@@ -290,6 +293,8 @@ protobuf==4.23.4
 psutil==5.9.7
 ptyprocess==0.7.0
 pure-eval==0.2.2
+py4j==0.10.9.7
+pyaml==23.12.0
 pyarrow==14.0.2
 pyarrow-hotfix==0.6
 pyasn1==0.5.1
@@ -339,6 +344,7 @@ schemdraw==0.15
 scikit-base==0.5.2
 scikit-image==0.22.0
 scikit-learn==1.2.2
+scikit-optimize==0.9.0
 scikit-plot==0.3.7
 scipy==1.10.1
 seaborn==0.12.2
